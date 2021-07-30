@@ -7,6 +7,8 @@
 // Scripts
 //
 
+import swal from 'sweetalert'
+
 window.addEventListener('DOMContentLoaded', event => {
 
     // Navbar shrink function
@@ -51,9 +53,6 @@ window.addEventListener('DOMContentLoaded', event => {
         });
     });
 
-    // Activate SimpleLightbox plugin for portfolio items
-    new SimpleLightbox({
-        elements: '#portfolio a.portfolio-box'
-    });
+
 
 });

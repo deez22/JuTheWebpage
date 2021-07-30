@@ -4231,7 +4231,7 @@ textarea.form-control-lg {
 }
 .navbar-light .navbar-text a,
 .navbar-light .navbar-text a:hover,
-.navbar-light .navbar-text a:focus {
+.n .navbar-text a:focus {
   color: rgba(0, 0, 0, 0.9);
 }
 
