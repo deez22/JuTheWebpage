@@ -11426,7 +11426,7 @@ header.masthead {
   padding-bottom: 6rem;
   text-align: center;
   color: #fff;
-  background-image: url("/assets/img/theater/img.png");
+  background-image: url("https://raw.githubusercontent.com/deez22/JuTheWebpage/new_template/assets/img/theater/img.png");
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
@@ -11737,7 +11737,7 @@ header.masthead .masthead-heading {
 
 section#contact {
 
-  background-image: url("/assets/img/theater/brick.jpg");
+  background-image: url("https://raw.githubusercontent.com/deez22/JuTheWebpage/new_template/assets/img/theater/brick.png");
   opacity: 100%;
   background-repeat: repeat-x;
   background-position: center;
